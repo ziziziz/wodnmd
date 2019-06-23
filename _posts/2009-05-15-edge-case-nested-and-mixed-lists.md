@@ -1,13 +1,10 @@
 ---
+layout:page
 title: "Edge Case: Nested and Mixed Lists"
+date：2019-06-15
 categories:
-  - Edge Case
-tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
+  - 网页设计
+
 last_modified_at: 2017-03-09T14:25:52-05:00
 ---
 
